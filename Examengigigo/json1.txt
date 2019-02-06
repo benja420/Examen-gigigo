@@ -1,0 +1,871 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CtQETAIAAGBPXi2vH3mnkHHFirAPIUjQacieclTFDzq7dS8hqtzMFd_yG0zhwPsY0nof7cPFHAEmGN6-yyOZzQAQIZLzUiW-mZQqgbDlSGTrURQHDQfiZdcZQxj8TEHDcAJMGybJg76U2aoD_mWHTeROaFWQr8bzlBMGlHHjlH9IAnGo6blU2127MUHGSP28gwkCXjak7N-gww1tLcNWg2mPN9TvtyWl3b2-V3k8l5XlWDqVmum6SVOxUJ_rFs6ojCDHz3q9IB91nYoGxpiwEE7isUvD4s5RjIOttN7GOY4ZYGF4ox5n--g_qDn7fZkjpqybdrfxIEuTz7P697QwAfV-Jhn_rxP2AtoBCp0RcC_sp2vIvm5LPYF6M5K4-aeB605F_MpG86f1W7894CYgBGm8t4UYow2zxqTzYleQ8VN2IFlBHokN9Iw-CKY-Bo4z-RvbmUE-zEgaZCIGCxNPZhe1tFfqMqhc2w-Y-srAYLce1Q8zQVdQ6gDoBHMPbJ426ds1iG0q8J-v0dDrhAqLMeU_VeeZyuZ7lJ-6ZvMwsZsLJUiApx0dgl16nyL_w3jizEUxFXoHoz54radVqesjFfTz9iP02vLJtGiATUsD3LQ7LBNPSPIXaQebb693IFr5UTPsATtLBZiEJNcqMIohodBNbU_KF_0HMPeahsftq0ZDjLQ5pmc8NtxZ94gHMAnO5qB7r6My8PYeMtnYN7emnfdGEAL3CH_oZknNw_l3flDozywMCsw6PeyL0CwpdSbeC-zBbZt6H3z5tPsb0wrLSKcY7wDX64sSEEMDF05F-1BEaQgCy9yqM-AaFOMMzQ15xyPdLZlnc8SzdWpMs9_c",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4326077,
+               "lng" : -99.133208
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "480f80745b1f911f3aed6a7301a1b75271d6cab4",
+         "name" : "Ciudad de México",
+         "photos" : [
+            {
+               "height" : 694,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108466859078860513320/photos\"\u003eUtkarsh keshari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4u6bWdP--7h1SKdKF6FDAtkkfl03NlW_g43gJ8cq4agcWacOGFTxC2OuipB5YeSV1JFfUB11Q5svmIvgP_-uIJ141RxjunYhFpBORD-PvKkzjoxxeMgGtqDt7HCOU1EfEhBlCMnXRgJ2nq42UV8vMkgnGhQIkjhIDfOljrquinksesV0YgvuRQ",
+               "width" : 1078
+            }
+         ],
+         "place_id" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "reference" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4331599,
+               "lng" : -99.1423307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4344430802915,
+                  "lng" : -99.1409934697085
+               },
+               "southwest" : {
+                  "lat" : 19.4317451197085,
+                  "lng" : -99.14369143029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3c756a596d0234b380eb27030cd4985dbf6d3176",
+         "name" : "Hotel Marlowe",
+         "photos" : [
+            {
+               "height" : 1571,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106782956164128610182/photos\"\u003eHotel Marlowe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYmgra9AqhFnoT8281YosXP35cpb73O5fcaBCupAeTpIm0_ljKC3QbWg4KP2JAIu5tmM_2kVUgqtJ1cxodKIgIPd04oJ2zRCkxkEqcUzHuAQB_T7rw2Cd1e1KR6AFHlMMEhBSVK3TTDbZ5ia-s9KKdEGJGhQ4G6IK27uL5juCq_kDLRcLB7xZyg",
+               "width" : 1572
+            }
+         ],
+         "place_id" : "ChIJDQRjKyv50YURw0bUFdn6sZg",
+         "plus_code" : {
+            "compound_code" : "CVM5+73 Ciudad de México, México",
+            "global_code" : "76F2CVM5+73"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJDQRjKyv50YURw0bUFdn6sZg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1157,
+         "vicinity" : "Avenida Independencia 17, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.433888,
+               "lng" : -99.137855
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4351460302915,
+                  "lng" : -99.1365204197085
+               },
+               "southwest" : {
+                  "lat" : 19.4324480697085,
+                  "lng" : -99.13921838029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "dc29918852dc80bbcd2fd32df29f8cf23fec2d9d",
+         "name" : "Hotel Ritz",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3259,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108261801381770772582/photos\"\u003eHotel Ritz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUzNCh2cz1i12r4kqFitrh60I98BT7Pf75C22I-_uOCUlImQrjDoSg6tkL5ng33xihRiMORBzt7w213qC8FrqkFJ0-5IQ3kGc63dg6aQXPH-GmlSnA8lRNwhmnmeCIauaEhDIDkAAcCeSxSH1Bn3WrdQ8GhTlXem2ZxKbQsM_Iy9XYx73eF5EEQ",
+               "width" : 4907
+            }
+         ],
+         "place_id" : "ChIJC98k0Cz50YURN1_YgwTly-I",
+         "plus_code" : {
+            "compound_code" : "CVM6+HV Ciudad de México, México",
+            "global_code" : "76F2CVM6+HV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJC98k0Cz50YURN1_YgwTly-I",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1374,
+         "vicinity" : "30, Avenida Francisco I. Madero, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4345003,
+               "lng" : -99.14675090000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4359738802915,
+                  "lng" : -99.1456377197085
+               },
+               "southwest" : {
+                  "lat" : 19.4332759197085,
+                  "lng" : -99.14833568029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "069dfe85ad13306411a312e47c12e01540d983ba",
+         "name" : "Fiesta Inn Centro Histórico",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\"\u003eFiesta Inn Centro Histórico\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbf5bl8j3aKPk3CTnGrrGxlfWerGckXViwpgpv-lbULnTaGIeXZC0X9tOQBgkTgyktnZ-eIB4mo4d-Q7rJG1JZAjWE2bYmDMqHxVgiWQ-xjEOB6hQcoNNsI27tvpimJcJEhCJvfj3hvd3c7Yv_LXC5aafGhQwhgflR2tdJk0EwRvGTNpNYvPXhA",
+               "width" : 3853
+            }
+         ],
+         "place_id" : "ChIJ815uctX40YUREyhhjRQ0zFc",
+         "plus_code" : {
+            "compound_code" : "CVM3+R7 Ciudad de México, México",
+            "global_code" : "76F2CVM3+R7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ815uctX40YUREyhhjRQ0zFc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 949,
+         "vicinity" : "Avenida Juárez 76, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4316337,
+               "lng" : -99.13531019999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4329928802915,
+                  "lng" : -99.13403066970849
+               },
+               "southwest" : {
+                  "lat" : 19.4302949197085,
+                  "lng" : -99.1367286302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "67091f80d05e207bd9bc529f02d5597eccde115d",
+         "name" : "Hotel NH Mexico City Centro Histórico",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1473,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105942881659506521585/photos\"\u003eHotel NH Mexico City Centro Histórico\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA41R_jcBOWOfbwyuvU5f7htGMhHQ0Vgvfw8oTz-qAuVPU4J3xGwMx3C5i2xY53o1qdHjScO1Yj3I0-ZNZ6nuCNnHdpuFI1jPY66khV_w66UZsZn-wKldmT2mXt8jEK0C8EhBZGMysp5dA5FHCVmkzpXNUGhQrrYTOXtIvBWUgEwJDnv4nvK4d4Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJT-3gltL-0YURqaJ9bHFgp-o",
+         "plus_code" : {
+            "compound_code" : "CVJ7+MV Ciudad de México, México",
+            "global_code" : "76F2CVJ7+MV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJT-3gltL-0YURqaJ9bHFgp-o",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1488,
+         "vicinity" : "Calle de la Palma 42, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.434211,
+               "lng" : -99.1449614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4355552802915,
+                  "lng" : -99.14358146970849
+               },
+               "southwest" : {
+                  "lat" : 19.4328573197085,
+                  "lng" : -99.1462794302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1f67ae33ab22c43ddc3f622baa8d52f8f10bea00",
+         "name" : "Hotel San Francisco Centro Histórico",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 869,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100186823919235784370/photos\"\u003eHotel San Francisco Centro Histórico\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqO5YSUycdpIfFzKG_1WkNFWNycalx9QVlwb6004OXlb_CfrPzHMFwuk-XkGWe_LMfwa8AiKuhQFpfRgQsNjGJprU-aLhcg47L4Fx52GVjBwQTukJe1v13PFvk5FjvVhbEhADxPbjzSzIdB8f7N3SExQ-GhRgnzi5GBUEI_rtIybp3QO42BBnHA",
+               "width" : 1502
+            }
+         ],
+         "place_id" : "ChIJBdL7GSj60YURqtLROaT9m0U",
+         "plus_code" : {
+            "compound_code" : "CVM4+M2 Ciudad de México, México",
+            "global_code" : "76F2CVM4+M2"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJBdL7GSj60YURqtLROaT9m0U",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1509,
+         "vicinity" : "Luis Moya 11, Cuauhtémoc, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4320832,
+               "lng" : -99.1345917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4333897302915,
+                  "lng" : -99.13342471970849
+               },
+               "southwest" : {
+                  "lat" : 19.4306917697085,
+                  "lng" : -99.13612268029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e96e035ea6e6f7da93d4834781242f4d5af6ca2a",
+         "name" : "Gran Hotel Ciudad de México",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103679786293097838208/photos\"\u003eGran Hotel Ciudad de México\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW-7X_8jGZW5WdV04Xsu6Df2FVkkYzlnza2F_TIS3mWWLj2Nr7bP2B1UHqxj44XhI-BdElviead0LZ924HKou9an2Ky7bzDCS7iUg_zL6ejG0JLUoBzpDByuK7SVTHWmSEhBpDhikuFqYZN5QTJSO9kXBGhSD4NP52wPCqCh7c6M585QS64yktA",
+               "width" : 1827
+            }
+         ],
+         "place_id" : "ChIJQRMdGVcBzoURTPsEkZCr5tY",
+         "plus_code" : {
+            "compound_code" : "CVJ8+R5 Ciudad de México, México",
+            "global_code" : "76F2CVJ8+R5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQRMdGVcBzoURTPsEkZCr5tY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3608,
+         "vicinity" : "16 de Septiembre 82, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.432976,
+               "lng" : -99.13439099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4344342302915,
+                  "lng" : -99.13302631970849
+               },
+               "southwest" : {
+                  "lat" : 19.43173626970849,
+                  "lng" : -99.1357242802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "322e1f2b061d3d4db7af8d971e1301d257f891b8",
+         "name" : "Best Western Hotel Majestic",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105203357866181151471/photos\"\u003eBest Western Hotel Majestic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaqk0vow8imOOmB4kV0GmwlZsi85_O-ZHI6O0gxDd63BMY_3NAeDv2E4XVrB-2TSjqpSqulJuD2JhP34ex4uYBNuQ_eJUwBReZ5T5-tXeF2NZTBVtAb3TnNtEh9q4LZQlEhDKhpsZlxQ9A-z-3V2dErxsGhRfpfc24vodqatZ3KbFdb7qP6Myjg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfetDFAz30YURj-LOq8vtIXU",
+         "plus_code" : {
+            "compound_code" : "CVM8+56 Ciudad de México, México",
+            "global_code" : "76F2CVM8+56"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJfetDFAz30YURj-LOq8vtIXU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 729,
+         "vicinity" : "Avenida Francisco I. Madero 73, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4300369,
+               "lng" : -99.13450189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4314295802915,
+                  "lng" : -99.1331724197085
+               },
+               "southwest" : {
+                  "lat" : 19.4287316197085,
+                  "lng" : -99.13587038029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c6dd54521e4c6545edcf1de1e5112c58e67bc76e",
+         "name" : "Hampton Inn & Suites Mexico City - Centro Historico",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112670215792862638973/photos\"\u003eHampton Inn &amp; Suites Mexico City - Centro Historico\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP5adEK6DoR5JAFVMmTBLPetSAIXfW-JEn5zICYWt3wNw0qwABOfX3DmyxBetFJrSO5KIkkx5hG7TMQ5NVQlM-SJG9EJQMcpZVgm3p2js7krSDn7HJk4dS8o9BTMcGKtLEhDQWdIzUPhWjhmfw5QZzkbIGhQI1MdfGSRgo7T73TgHZbkwte9bgQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJUa70P4D40YURJKbiQycyPfM",
+         "plus_code" : {
+            "compound_code" : "CVJ8+25 Ciudad de México, México",
+            "global_code" : "76F2CVJ8+25"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJUa70P4D40YURJKbiQycyPfM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 811,
+         "vicinity" : "5 de Febrero No. 24, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4345819,
+               "lng" : -99.14630080000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4359955802915,
+                  "lng" : -99.14491876970851
+               },
+               "southwest" : {
+                  "lat" : 19.4332976197085,
+                  "lng" : -99.14761673029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c08f410950384309cacd1b7f2becad8ba91c5855",
+         "name" : "Hilton Mexico City Reforma",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1342,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105560608813767917753/photos\"\u003eHilton Mexico City Reforma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHQuy3m-2A7LyKe60xPVMHWc-p3qF_rbs9rRp-v3oHW-M-p81U-eC3aiqYs7F1TQJmoZ3ZtVobEl6vFZrB2ByKRo9uNET8qNJNQ4_hkAdT8nEjq0SQJ4ePBPz8gT8sGb2EhBOP4jz-4br5I3lER2jSKo-GhTZyJHo8Tsc1gKp9AuZ3WYGRE0lFw",
+               "width" : 1343
+            }
+         ],
+         "place_id" : "ChIJpXG3CjXKOoQRiUtJrZVnNsw",
+         "plus_code" : {
+            "compound_code" : "CVM3+RF Ciudad de México, México",
+            "global_code" : "76F2CVM3+RF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJpXG3CjXKOoQRiUtJrZVnNsw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7752,
+         "vicinity" : "Avenida Juárez 70, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.436971,
+               "lng" : -99.135426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4383715302915,
+                  "lng" : -99.1340690697085
+               },
+               "southwest" : {
+                  "lat" : 19.4356735697085,
+                  "lng" : -99.13676703029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9d89ac411a07312676164ff9c770c3ed278725ef",
+         "name" : "Hotel Habana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113200919382666308005/photos\"\u003ePere Font\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1d55iOaeeGEHFfWo82k4ujkZaJIhW-TIL6JyoRDZbNCiw__T_-Uu9nlmicxBVCdTV32YiwO46MBWLjeKQXVHtcb8nH9b1PXTjMjR_Xkaz5QqDUrJEKxHI3PybMNCfxXqEhB6oJBvpNuIp-2loUYUf_0jGhR8a06uiuUBWAl4J9RJPoSXyE2EvQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJHUMfYOcc0oURovVgIQbN0P0",
+         "plus_code" : {
+            "compound_code" : "CVP7+QR Ciudad de México, México",
+            "global_code" : "76F2CVP7+QR"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJHUMfYOcc0oURovVgIQbN0P0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 393,
+         "vicinity" : "Calle Republica de Cuba 77, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.427768,
+               "lng" : -99.1353032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4290827302915,
+                  "lng" : -99.1339590697085
+               },
+               "southwest" : {
+                  "lat" : 19.4263847697085,
+                  "lng" : -99.1366570302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4610ebd24bc7db469f6d4d56e200421ce8eef4ca",
+         "name" : "Hostal Regina Centro Histórico Ciudad de México \"YOUTH PARTY”",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115271006288873112382/photos\"\u003eHostal Regina Centro Histórico Ciudad de México &quot;YOUTH HOSTEL&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABVvvRuTE7sy-cuBPZvoHM9yyJg95hLaBWy7kqjV1adU0ej4QJ-5SYfSLVafsHyWLom0Gmp6ZkShofrQS-vH6E8olzdMkuec0Z3Eu4H2DQwGUVWQDAtyt0TusgZY4M_3UEhCU-cytCxBaBSzPieHyiDo0GhSGtzh2Gzl98HaJDBpqUpjWNQyibw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ04epHNL-0YURPB6OWeF8eis",
+         "plus_code" : {
+            "compound_code" : "CVH7+4V Ciudad de México, México",
+            "global_code" : "76F2CVH7+4V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ04epHNL-0YURPB6OWeF8eis",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 903,
+         "vicinity" : "Calle Regina 58, Centro Histórico, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4362348,
+               "lng" : -99.147667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4376503302915,
+                  "lng" : -99.1464202197085
+               },
+               "southwest" : {
+                  "lat" : 19.4349523697085,
+                  "lng" : -99.14911818029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "dfcc7c29b6df2adbb417d5defeb31ec6d2d17251",
+         "name" : "Hotel Fontán Reforma",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110153737322523925246/photos\"\u003eMari M. R.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAORENZIjuxCkmFnLpXCicLPyPVbTHeZFA_FF1QbDcTzXytm-errOFy989NgWjKc45baA5gOoFe5a8Y3u7W5D5miUsayGCRvc5McOEgQRruRqcZlHbNG4WT7B-kGGp6ZEwEhDAWzvUGUlXmi1NlJmFyx4NGhTJMXGH3PBA2pjeI_dX5L6NfMRlOQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1VyGauz80YURnXg5vzbgpoU",
+         "plus_code" : {
+            "compound_code" : "CVP2+FW Ciudad de México, México",
+            "global_code" : "76F2CVP2+FW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ1VyGauz80YURnXg5vzbgpoU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2891,
+         "vicinity" : "Avenida Paseo de la Reforma 24, Cuauhtémoc, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.438832,
+               "lng" : -99.13963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4400589802915,
+                  "lng" : -99.1383006697085
+               },
+               "southwest" : {
+                  "lat" : 19.43736101970849,
+                  "lng" : -99.14099863029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "48898ee5b480db85bc03c381b9bc2c2b172a3513",
+         "name" : "HOTEL DILIGENCIAS",
+         "photos" : [
+            {
+               "height" : 1878,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100107928028953446054/photos\"\u003eHOTEL DILIGENCIAS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ0UoqQQHRBnypYAQBqoWLRjmh6OHHDtmxwON9X4Xzj73xczRcZ3OHfUe6Hcv5IgDw4ChfvWWqJljWbsiUC7EfHnc47gf999mrtzpgb09i_titsblGTgX66Os7kaC1-psEhCs_oO_U0YAqn-gm7RbVtXaGhTQZjHZ2d61F5U2J-hjwLHo16ak4g",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJt5t7NS350YURDL5EqAqohLg",
+         "plus_code" : {
+            "compound_code" : "CVQ6+G4 Ciudad de México, México",
+            "global_code" : "76F2CVQ6+G4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJt5t7NS350YURDL5EqAqohLg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1104,
+         "vicinity" : "Belisario Domínguez 6, Centro"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.435231,
+               "lng" : -99.137964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4365896302915,
+                  "lng" : -99.13668096970849
+               },
+               "southwest" : {
+                  "lat" : 19.43389166970849,
+                  "lng" : -99.1393789302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2dbf518b7554074f027ac9ebe9e118afd50f5fa7",
+         "name" : "Chillout Flats Bed & Breakfast",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104223084530385725016/photos\"\u003eChillout Flats Bed &amp; Breakfast\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATq1GYSjsk2R7fe-uLZuAh0otXI06aJKVHQ2ot6gif0_MVQl8MIm2OiL1YSBt1y9ni4QTU9fvsUCa-ZXHK_RMkUOjYSUxNK1w2TDZvutrILYHMEx36X6qeqEU6YE67dpFEhDbAyIk9OIKNT_3aklYLnApGhRNKTf958uRKWbBkoh5Lew33sb6FA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJswN65Sz50YURsw_vTBZNJvY",
+         "plus_code" : {
+            "compound_code" : "CVP6+3R Ciudad de México, México",
+            "global_code" : "76F2CVP6+3R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJswN65Sz50YURsw_vTBZNJvY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Calle de Bolívar 8, Centro, Cuauhtémoc"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4342947,
+               "lng" : -99.1482515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4356551302915,
+                  "lng" : -99.14695861970849
+               },
+               "southwest" : {
+                  "lat" : 19.4329571697085,
+                  "lng" : -99.14965658029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "88d99563e8701b05b70d9c6c37b8b3afa0998fd8",
+         "name" : "Hotel Ambassador",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107963763573932584410/photos\"\u003eLUIS MORA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXsByy3D1AUo5UXSy-NNyEpNKTMHdxfOC3EiDLCYkZ62thnf7HHGWQzWfkzIUWEI8EaMgUBPALqU8DzKJD25ky1cyqd1FB8Kqip5U6nvFvBU_dJhyzUVGqccNFHMFsdjUEhCfLqhgZ9gKAM6a8Ng2dUnVGhQPmo-kufNewtdSf6XaHou1KY2dZQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJlRc_HtX40YURh31Ld7kxtYc",
+         "plus_code" : {
+            "compound_code" : "CVM2+PM Ciudad de México, México",
+            "global_code" : "76F2CVM2+PM"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJlRc_HtX40YURh31Ld7kxtYc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 319,
+         "vicinity" : "Humboldt 38, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4329837,
+               "lng" : -99.14539859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4343089802915,
+                  "lng" : -99.1439127197085
+               },
+               "southwest" : {
+                  "lat" : 19.4316110197085,
+                  "lng" : -99.1466106802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e77bae75eac609f3d2bf57b975e60f7a83957ba8",
+         "name" : "Hotel Metropol",
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109411485609818012219/photos\"\u003eHotel Metropol\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7L32fEBOm4ba5cI9njkl0RQe8pYRFZ0eikTOym8H6m9s8MiV581f5cW8fsorWydv1MTIZB-esdlxjfusp2VKTr3t1XxDW_CnRQpFHemNKV9Hz5Umdc_AIiPswHEF7SQfEhDlJpF7LmqjvUelq_Kaiie5GhRHcaS8W_aERjgliO5SmS07zgPBlw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJkchlrCr50YURsHnsKCBs_hg",
+         "plus_code" : {
+            "compound_code" : "CVM3+5R Ciudad de México, México",
+            "global_code" : "76F2CVM3+5R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJkchlrCr50YURsHnsKCBs_hg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1368,
+         "vicinity" : "Luis Moya 39, Centro"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4303032,
+               "lng" : -99.13900489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4316414302915,
+                  "lng" : -99.13757721970849
+               },
+               "southwest" : {
+                  "lat" : 19.4289434697085,
+                  "lng" : -99.14027518029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "541c0112b2b03884fa41a2613d6a2a97a6258fa4",
+         "name" : "Hotel la Casa de la Luna",
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112190963746580258273/photos\"\u003eHotel la Casa de la Luna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKsK18vsQt5pneANJv7nsepqTM1Loab0vG45d9wAn3orjiXBbzBl1pjXeIizKNAqEg-DqHR8z6QnfGNU9NRQC4ri3CkxKLL46XvQ9szUQuk3C57Wv_IW6WTkXcqVYnMMEEhCq5HSV5NaW3W-AKmks9SCqGhQK0pNlGil7rHd6XhxkX7XiPSNzaw",
+               "width" : 952
+            }
+         ],
+         "place_id" : "ChIJewylddP-0YURQf5guIUjfv4",
+         "plus_code" : {
+            "compound_code" : "CVJ6+49 Ciudad de México, México",
+            "global_code" : "76F2CVJ6+49"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJewylddP-0YURQf5guIUjfv4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 226,
+         "vicinity" : "Calle Bolivar 57, Cuauhtémoc, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4356082,
+               "lng" : -99.1339108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4369535802915,
+                  "lng" : -99.13253246970849
+               },
+               "southwest" : {
+                  "lat" : 19.4342556197085,
+                  "lng" : -99.1352304302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0f8d8aaa32e1118e35e89c3b0c86412e13b0b1ff",
+         "name" : "México City Hostel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112053604095243903854/photos\"\u003eMaría Camila González\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZHf6lt_UKVDY1rkPQpgpNpaZ6mhVNjlYvM3woOJXPOdfvGy4MUWaevy44hn7O6BVblPQwwtOCu4ccSjXv6RfgI_h0z5HQ81_zz7Oo5TcRMQAUSzPRG5_uwbAFopqNZIMEhBUlaBTC7Aiqtxeyrpx3UEXGhSIBD3XonvsaG8qH3h-QkWz_rDZFA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJEwaxmjL50YURQTcndsW1Tsw",
+         "plus_code" : {
+            "compound_code" : "CVP8+6C Ciudad de México, México",
+            "global_code" : "76F2CVP8+6C"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJEwaxmjL50YURQTcndsW1Tsw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 636,
+         "vicinity" : "República de Brasil 8, Centro, Ciudad de México"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4302678,
+               "lng" : -99.1373136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4439193,
+                  "lng" : -99.1231621
+               },
+               "southwest" : {
+                  "lat" : 19.422177,
+                  "lng" : -99.15365799999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "53f7b6d1be3997f76a45dbd049dac71d9fc529d5",
+         "name" : "Centro",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102083889664863225178/photos\"\u003eJuan Pablo Toral\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5KMMhWcp7jJRkDM0-5BUdOTrfpbyAeQX3d6EPOihJ-cj3eVbYlq6oUMoV39W8mIS6dyoStc0DJX1dp_IQBm-wzaCvhXZZorD2pMRXTG67_vQt1h1sm8qOKwNMpsT9QSdEhC1aTw5s-lDk6jeE3oG0rqSGhS9u5aNJsDQ0--Dkk-21jgDkQTFVQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ8bh9yyz50YURlL2cFjXnr98",
+         "reference" : "ChIJ8bh9yyz50YURlL2cFjXnr98",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Centro"
+      }
+   ],
+   "status" : "OK"
+}
